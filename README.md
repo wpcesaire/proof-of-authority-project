@@ -23,9 +23,9 @@
  * This procedure allowed me to connect to the ethereum network with my custom node. To do a  transaction
    on the network I needed to bring in the private key of the address of the wallet i created
 
-![connecting to MYCrypto](https://github.com/wpcesaire/Pro of-of-Authority-Development-Chain/blob/master/Screen%20Shot%202020-07-25%20at%2010.33.26%20AM.png)
+   ![connecting to MYCrypto](https://github.com/wpcesaire/proof-of-authority-project/blob/master/Screen%20Shot%202020-07-30%20at%206.50.26%20AM.png)
  
- ![tx](https://github.com/wpcesaire/Proof-of-Authority-Development-Chain/blob/master/screenshots/Screen%20Shot%202020-07-31%20at%201.44.09%20PM.png)
+![tx](https://github.com/wpcesaire/Proof-of-Authority-Development-Chain/blob/master/screenshots/Screen%20Shot%202020-07-31%20at%201.44.09%20PM.png)
    
 
 ![tx](https://github.com/wpcesaire/Proof-of-Authority-Development-Chain/blob/master/Screen%20Shot%202020-08-01%20at%208.50.41%20AM.png)
