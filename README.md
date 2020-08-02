@@ -28,6 +28,6 @@
   ![tx](https://github.com/wpcesaire/proof-of-authority-project/blob/master/Screen%20Shot%202020-07-31%20at%201.44.09%20PM.png)
    
 
-![tx](https://github.com/wpcesaire/proof-of-authority-project/blob/master/Screen%20Shot%202020-07-25%20at%2010.33.26%20AM.png)
+  ![tx](https://github.com/wpcesaire/proof-of-authority-project/blob/master/ Screen%20Shot%202020-07-25%20at%2010.33.26%20AM.png)
 
 
