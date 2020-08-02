@@ -4,7 +4,7 @@
   node1--unlock"<node1 address>" --mine --rpc --allow-insecure-unlock
 
 * In a new terminal launch node2 by using this code ./geth --datadir node2 --unlock "<node 2   
-  address>" --mine --port 30304 --bootnodes <enode address from node1>.
+  address>" --mine --port 30304 --bootnodes bootnodes <enode address from node1>.
  
 * The code  I ran for node2 has the enodes which hold the key from node1 which is considered the
    bootnode. 
