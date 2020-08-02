@@ -25,8 +25,7 @@
 
    ![connecting to MYCrypto](https://github.com/wpcesaire/proof-of-authority-project/blob/master/Screen%20Shot%202020-08-02%20at%203.37.06%20PM.png)
  
-  ![tx](https://github.com/wpcesaire/  
-  proof-of-authority-project/blob/master/Screen%20Shot%202020-08-02%20at%203.40.00%20PM.png)
+  ![tx](https://github.com/wpcesaire/proof-of-authority-project/blob/master/Screen%20Shot%202020-08-02%20at%203.40.00%20PM.png)
    
 
   ![tx](https://github.com/wpcesaire/proof-of-authority-project/blob/master/Screen%20Shot%202020-08-02%20at%204.14.58%20PM.png)
